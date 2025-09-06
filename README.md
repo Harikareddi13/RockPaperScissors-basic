@@ -52,4 +52,4 @@ Play it live here 👉 [Rock Paper Scissors – Stage 1](https://harikareddi13.g
 💻 **Run Locally**:  
 1. Clone this repository:
    ```bash
-   git clone https://github.com/HarikaReddi13/RockPaperScissor_Stage1.git
+   git clone https://github.com/Harikareddi13/RockPaperScissors-basic.git
