@@ -23,7 +23,7 @@ Here’s how the basic version looks:
 ---
 
 ## 🚀 Demo
-Play it live here 👉 [Rock Paper Scissors – Stage 1](https://harikareddi13.github.io/RockPaperScissor_Stage1/)  
+Play it live here 👉 [Rock Paper Scissors – Stage 1](https://harikareddi13.github.io/RockPaperScissors-basic/)  
 
 ---
 
@@ -47,7 +47,7 @@ Play it live here 👉 [Rock Paper Scissors – Stage 1](https://harikareddi13.g
 
 ## ⚡ How to Access / Run
 
-🎮 **Play Online**: [Rock Paper Scissors – Stage 1](https://harikareddi13.github.io/RockPaperScissor_Stage1/)  
+🎮 **Play Online**: [Rock Paper Scissors – Stage 1]https://harikareddi13.github.io/RockPaperScissors-basic/)  
 
 💻 **Run Locally**:  
 1. Clone this repository:
